@@ -1,0 +1,54 @@
+---- Minecraft Crash Report ----
+// I'm sorry, Dave.
+
+Time: 2025-01-04 23:10:08
+Description: Exception in server tick loop
+
+java.lang.IllegalStateException: Failed to initialize server
+	at knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:684)
+	at knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.20.1
+	Minecraft Version ID: 1.20.1
+	Operating System: Linux (amd64) version 5.15.107-2-pve
+	Java Version: 22.0.1, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 112239536 bytes (107 MiB) / 301989888 bytes (288 MiB) up to 4150263808 bytes (3958 MiB)
+	CPUs: 4
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Celeron(R) J4125 CPU @ 2.00GHz
+	Identifier: Intel64 Family 6 Model 122 Stepping 8
+	Microarchitecture: Goldmont Plus
+	Frequency (GHz): 2.00
+	Number of physical packages: 1
+	Number of physical CPUs: 4
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Memory slot #0 capacity (MB): 8192.00
+	Memory slot #0 clockSpeed (GHz): -0.00
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MB): 8192.00
+	Memory slot #1 clockSpeed (GHz): -0.00
+	Memory slot #1 type: DDR4
+	Virtual memory max (MB): 15082.09
+	Virtual memory used (MB): 4071.93
+	Swap memory total (MB): 1024.00
+	Swap memory used (MB): 0.06
+	JVM Flags: 0 total; 
+	Server Running: true
+	Data Packs: vanilla
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	Is Modded: Definitely; Server brand changed to 'fabric'
+	Type: Dedicated Server (map_server.txt)

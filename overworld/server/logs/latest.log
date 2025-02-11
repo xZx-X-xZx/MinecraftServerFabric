@@ -1,0 +1,364 @@
+[11:10:04] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.9
+[11:10:04] [ForkJoinPool-1-worker-2/WARN]: Mod waterframes uses the version 2.1.7b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '7b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[11:10:04] [main/WARN]: Warnings were found!
+ - 模组 'Exposure' (exposure) 1.7.7 建议安装 create 的 0.5.1-f 及以上版本，但没有安装它！
+	 - 为了最佳体验，您应该安装 create 的 0.5.1-f 及以上版本。
+[11:10:04] [main/INFO]: Loading 143 mods:
+	- accessories 1.0.0-beta.41+1.20.1
+	   |-- io_wispforest_endec 0.1.8
+	   |-- io_wispforest_endec_gson 0.1.5
+	   \-- io_wispforest_endec_netty 0.1.4
+	- amendments 1.20-1.2.12
+	- appleskin 2.5.1+mc1.20
+	- architectury 9.2.14
+	- better_climbing 3
+	- bettercombat 1.8.6+1.20.1
+	- bettermobcombat 1.2.4
+	- cardinal-components 5.2.2
+	   |-- cardinal-components-base 5.2.2
+	   |-- cardinal-components-block 5.2.2
+	   |-- cardinal-components-chunk 5.2.2
+	   |-- cardinal-components-entity 5.2.2
+	   |-- cardinal-components-item 5.2.2
+	   |-- cardinal-components-level 5.2.2
+	   |-- cardinal-components-scoreboard 5.2.2
+	   \-- cardinal-components-world 5.2.2
+	- carryon 2.1.2.7
+	- cloth-config 11.1.136
+	   \-- cloth-basic-math 0.6.1
+	- combat-plus-core 1.1.0+1.20.1
+	   |-- lilylib 1.1.3+1.20
+	   \-- mm 2.3
+	- craftsense 1.1.1
+	- creativecore 2.12.24
+	   \-- net_minecraftforge_eventbus 6.0.3
+	- diggusmaximus 1.5.9-1.20
+	   \-- kyrptconfig 1.5.6-1.20
+	- display_case 1.0.8
+	- dualswords 1.1.2+1.20.1
+	- exposure 1.7.7
+	- fabric-api 0.92.2+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabric-language-kotlin 1.13.0+kotlin.2.1.0
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.1.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.1.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.1.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.1.0
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.26.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.6.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.6.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.7.3
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.7.3
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.7.3
+	- fabricloader 0.16.9
+	   \-- mixinextras 0.4.1
+	- fastmove 1.0.8
+	- forgeconfigapiport 8.0.1
+	- fowlplay 1.0.0-beta.2+1.20.1
+	   \-- midnightlib 1.4.1
+	- fzzy_config 0.5.9+1.20.1
+	   |-- blue_endless_jankson 1.2.3
+	   |-- fabric-permissions-api-v0 0.3.1
+	   \-- net_peanuuutz_tomlkt_tomlkt-jvm 0.3.7
+	- horsebuff 2.1.2
+	   \-- fabric-screen-api-v1 2.0.6+b3afc78b27
+	- icarus 1.16
+	- immersivelanterns 1.0.4
+	- jade 11.12.0+fabric
+	- jamlib 0.6.1+1.20.x
+	- java 17
+	- lithium 0.11.2
+	- minecraft 1.20.1
+	- mobplayeranimator 1.3.2
+	- moonlight 1.20-2.13.37
+	- naturescompass 1.20.1-2.2.3-fabric
+	- openitempuller 0.1.5
+	- owo 0.11.2+1.20
+	- patpat 1.0.1+1.20.1
+	- player-animator 1.0.2-rc1+1.20
+	- rightclickharvest 3.2.3+1.19.x-1.20.1-fabric
+	- shulkerboxtooltip 4.0.4+1.20.1
+	- slide_show 1.0.3-Enhancement-1
+	- supplementaries 1.20-3.1.11
+	   \-- mixinsquared 0.1.1
+	- tacz 1.0.2-hotfix3
+	   |-- com_github_286799714_luaj_luaj-core 3.0.3
+	   |-- com_github_286799714_luaj_luaj-jse 3.0.3
+	   |-- controlling 12.0.2
+	   |-- mkb 1.2.0
+	   |-- org_apache_commons_commons-math3 3.6.1
+	   |-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_entity 2.3.4+1.20.1
+	   |    \-- porting_lib_mixin_extensions 2.3.4+1.20.1
+	   |-- porting_lib_tags 3.0
+	   \-- searchables 1.0.3
+	- travelersbackpack 9.1.18
+	   \-- reach-entity-attributes 2.4.0
+	- trinkets 3.7.1
+	- txnilib 1.0.2
+	- villagehealthcare 1.0.0
+	- villagerinabucket 1.20.1-1.3.0
+	- walljump 1.20.1-1.2.8-fabric
+	   |-- configlibtxf 4.2.5-fabric
+	   \-- keybindfixtxf 1.1.1
+	- waterframes 2.1.7b
+	- watermedia 2.1.7
+	- wwoo 2.0.0
+	- xaerominimap 24.7.1
+	- xaeroworldmap 1.39.2
+	- yigd 2.0.10
+	   \-- libgui 8.1.1+1.20.1
+	        |-- jankson 6.0.0+j1.2.3
+	        \-- libninepatch 1.2.0
+[11:10:04] [main/WARN]: Found 3 non-fabric mods:
+	- [舒适区]TheComfortZone-1.20.1-4.1.0.jar
+	- [家具]Furniture-Beetle-1.20.1-0.7.0.jar
+	- [内置网页浏览器] webdisplays-2.0.2-1.20.1.jar
+[11:10:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/MinecraftServerFabric/overworld/server/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[11:10:05] [main/INFO]: Compatibility level set to JAVA_17
+[11:10:06] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 1 override(s) found
+[11:10:06] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
+[11:10:06] [main/WARN]: @Mixin target net.minecraft.class_761 was not found accessories-common.mixins.json:LevelRendererAccessor from mod accessories
+[11:10:06] [main/WARN]: Error loading class: forge/net/mca/entity/ai/brain/tasks/ExtendedMeleeAttackTask (java.lang.ClassNotFoundException: forge/net/mca/entity/ai/brain/tasks/ExtendedMeleeAttackTask)
+[11:10:06] [main/WARN]: Error loading class: fabric/net/mca/entity/ai/brain/tasks/ExtendedMeleeAttackTask (java.lang.ClassNotFoundException: fabric/net/mca/entity/ai/brain/tasks/ExtendedMeleeAttackTask)
+[11:10:07] [main/WARN]: Error loading class: net/minecraft/class_572 (java.lang.ClassNotFoundException: net/minecraft/class_572)
+[11:10:07] [main/WARN]: @Mixin target net.minecraft.class_572 was not found fastmove.mixins.json:BipedEntityModelMixin from mod fastmove
+[11:10:07] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.PistonBlockEntityMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[11:10:07] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.VoxelShapeMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[11:10:07] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[11:10:07] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
+[11:10:07] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[11:10:07] [main/WARN]: Error loading class: net/minecraft/class_635 (java.lang.ClassNotFoundException: net/minecraft/class_635)
+[11:10:07] [main/WARN]: @Mixin target net.minecraft.class_635 was not found tacz.mixins.json:client.network.ClientLoginNetworkHandlerAccessor from mod tacz
+[11:10:07] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
+[11:10:08] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[11:10:12] [main/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on accessories-fabric.mixins.json:LivingEntityMixin from mod accessories::localvar$zza000$accessories$adjustLooting exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[11:10:12] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$bmb000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[11:10:18] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin from mod accessories::handler$zzl000$accessories$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[11:10:28] [main/INFO]: Registering Listeners!
+[11:10:28] [main/INFO]: Loaded config amendments-common.json
+[11:10:29] [main/INFO]: Welcome to CraftSense!
+[11:10:30] [main/INFO]: initializing FastMove :3
+[11:10:30] [main/INFO]: Loading Fowl Play
+[11:10:32] [main/INFO]: Horse Buff Initialized
+[11:10:32] [main/INFO]: [jamlib] Mod initialized!
+[11:10:32] [main/INFO]: Definitely not up to no good
+[11:10:32] [main/INFO]: Don't use Forge, use Froge!
+[11:10:32] [main/INFO]: PatPat Initialized
+[11:10:32] [main/INFO]: [rightclickharvest] Initializing VersionUtils
+[11:10:32] [main/INFO]: [rightclickharvest] VersionUtils initialized successfully
+[11:10:32] [main/INFO]: [jamlib] Registered config for rightclickharvest
+[11:10:32] [main/INFO]: [rightclickharvest] Mod initialized!
+[11:10:32] [main/INFO]: Slideshow initialized
+[11:10:33] [main/INFO]: Loaded config supplementaries-common.json
+[11:10:34] [main/ERROR]: No data fixer registered for target_minecart
+[11:10:34] [main/INFO]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[11:10:34] [main/INFO]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[11:10:34] [main/INFO]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[11:10:34] [main/INFO]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[11:10:34] [main/INFO]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[11:10:34] [main/INFO]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[11:10:34] [main/INFO]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[11:10:34] [main/INFO]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[11:10:36] [main/ERROR]: No data fixer registered for 
+[11:10:36] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[11:10:36] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[11:10:36] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[11:10:36] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[11:10:36] [main/INFO]: [STDOUT]: TxniLib onInitialize!!
+[11:10:37] [main/INFO]: Running WATERFrAMES v2.1.7b
+[11:10:37] [main/WARN]: Stub running successfully
+[11:10:39] [main/INFO]: Initialized block sets in 33ms
+[11:10:39] [main/ERROR]: No data fixer registered for falling_lantern
+[11:10:39] [main/ERROR]: No data fixer registered for dispenser_minecart
+[11:10:39] [main/ERROR]: No data fixer registered for falling_urn
+[11:10:39] [main/ERROR]: No data fixer registered for falling_ash
+[11:10:39] [main/ERROR]: No data fixer registered for falling_sack
+[11:10:39] [main/ERROR]: No data fixer registered for brick_projectile
+[11:10:39] [main/ERROR]: No data fixer registered for slimeball_projectile
+[11:10:39] [main/ERROR]: No data fixer registered for bomb
+[11:10:39] [main/ERROR]: No data fixer registered for cannonball
+[11:10:39] [main/ERROR]: No data fixer registered for rope_arrow
+[11:10:39] [main/ERROR]: No data fixer registered for slingshot_projectile
+[11:10:40] [main/INFO]: Initialized color sets in 40ms
+[11:10:40] [main/INFO]: Finished mod setup in: [0, 2, 0, 3, 0, 1, 28, 9, 2] ms
+[11:10:40] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[11:10:40] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[11:10:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:10:41] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 118 ms
+[11:10:43] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[11:10:45] [Worker-Main-2/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[11:10:46] [main/INFO]: Loaded 7 recipes
+[11:10:46] [main/ERROR]: Parsing error loading custom advancement naturescompass:natures_compass: Expected items to be a JsonArray, was "min...ss"
+[11:10:46] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[11:10:46] [main/INFO]: Loaded 1618 advancements
+[11:10:46] [main/INFO]: Loading exposure lenses:
+[11:10:46] [main/INFO]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
+[11:10:46] [main/INFO]: Loaded 27 flute songs
+[11:10:46] [main/INFO]: Reloading grave shape (server)
+[11:10:46] [main/INFO]: Grave model and shape reload successful (server)
+[11:10:46] [main/INFO]: Reloading YIGD graveyard data (server)
+[11:10:46] [main/INFO]: Graveyard data successfully reloaded (server)
+[11:10:46] [main/INFO]: Reloading YIGD grave area overrides (server)
+[11:10:46] [main/INFO]: Grave area overrides successfully reloaded (server)
+[11:10:48] [main/INFO]: Applied 7 data villager trades
+[11:10:49] [main/INFO]: Finished additional setup in 0 ms
+[11:10:49] [main/INFO]: Applied 171 biome modifications to 54 of 64 new biomes in 30.43 ms
+[11:10:49] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[11:10:49] [Server thread/INFO]: Loading properties
+[11:10:49] [Server thread/INFO]: Default game type: SURVIVAL
+[11:10:49] [Server thread/INFO]: Generating keypair
+[11:10:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:10:49] [Server thread/INFO]: Using epoll channel type
+[11:10:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:10:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:10:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:10:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:10:50] [Server thread/INFO]: Preparing level "world"
+[11:10:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:11:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:11:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:11:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:11:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:11:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:11:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:11:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:11:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:11:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:11:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:11:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:11:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:11:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:11:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:11:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:11:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:11:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:11:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:11:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:11:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:11:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:11:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:11:07] [Worker-Main-2/INFO]: Preparing spawn area: 13%
+[11:11:07] [Worker-Main-2/INFO]: Preparing spawn area: 14%
+[11:11:08] [Worker-Main-1/INFO]: Preparing spawn area: 83%
+[11:11:08] [Server thread/INFO]: Time elapsed: 12975 ms
+[11:11:09] [Server thread/INFO]: Done (18.928s)! For help, type "help"
+[11:11:09] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 9078 bytes (in 1 string chunks with the size of 10000)
+[11:11:09] [Server thread/INFO]: Start loading plugin from Exposure
+[11:11:09] [Server thread/INFO]: Start loading plugin from Jade
+[11:11:09] [Server thread/INFO]: Start loading plugin from Jade
+[11:11:09] [Server thread/INFO]: Start loading plugin from Jade
+[11:11:09] [Server thread/INFO]: Start loading plugin from Supplementaries
+[11:11:24] [Server thread/WARN]: Server seems overloading, jumping 15581ms or 311 ticks
+[11:11:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15581ms or 311 ticks behind
+[11:11:24] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[11:11:24] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[11:13:31] [Server thread/INFO]: ZXXXZ[/192.168.123.31:14275] logged in with entity id 218 at (-50.5931207687274, 114.5, -49.30000001192093)
+[11:13:31] [Server thread/INFO]: Sending server config values to client
+[11:13:31] [Server thread/INFO]: Syncing config to ZXXXZ (b8e45221-f894-3549-bdeb-88b901e7a348)
+[11:13:32] [Server thread/INFO]: Loading config from file...
+[11:13:32] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[11:13:32] [Server thread/INFO]: ZXXXZ joined the game
+[11:13:32] [Server thread/WARN]: Server seems overloading, jumping 2514ms or 50 ticks
+[11:13:33] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player ZXXXZ. Claiming: GRAVE / Robbing: INVENTORY
+[11:13:33] [Netty Epoll Server IO #1/INFO]: [ShulkerBoxTooltip] ZXXXZ: protocol version: 2.0
+[11:13:34] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[11:13:34] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[11:13:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
+[11:16:54] [Server thread/INFO]: [ZXXXZ: Set own game mode to Creative Mode]
+[11:17:49] [Server thread/INFO]: [ZXXXZ: Set own game mode to Survival Mode]
+[11:18:40] [Server thread/WARN]: Server seems overloading, jumping 2114ms or 42 ticks
+[11:26:54] [Server thread/WARN]: Server seems overloading, jumping 2075ms or 41 ticks
+[11:27:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[11:28:36] [Server thread/WARN]: Server seems overloading, jumping 2400ms or 48 ticks
+[11:29:39] [Server thread/INFO]: [ZXXXZ: Teleported ZXXXZ to -299.500000, 63.500000, -387.500000]
+[11:29:39] [Server thread/WARN]: ZXXXZ moved too quickly! 4.405330190603593,-128.375,50.26256062183762
+[11:30:09] [Server thread/INFO]: ZXXXZ lost connection: Disconnected
+[11:30:09] [Server thread/INFO]: ZXXXZ left the game
+[12:12:18] [Server thread/INFO]: Xueke[/192.168.123.9:42684] logged in with entity id 3826 at (258.4486185165151, 72.0, -530.8358090062407)
+[12:12:18] [Server thread/INFO]: Sending server config values to client
+[12:12:18] [Server thread/INFO]: Syncing config to Xueke (c334d51f-bc88-31a4-88a1-a869bcd115b2)
+[12:12:18] [Server thread/INFO]: Loading config from file...
+[12:12:18] [Server thread/INFO]: Xueke joined the game
+[12:12:18] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[12:12:19] [Server thread/WARN]: Server seems overloading, jumping 2507ms or 50 ticks
+[12:12:20] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Xueke. Claiming: GRAVE / Robbing: INVENTORY
+[12:12:20] [Netty Epoll Server IO #0/INFO]: [ShulkerBoxTooltip] Xueke: protocol version: 2.0
+[12:14:29] [Server thread/INFO]: Xueke lost connection: Disconnected
+[12:14:29] [Server thread/INFO]: Xueke left the game
+[15:45:31] [Server thread/INFO]: ZXXXZ[/192.168.123.31:6878] logged in with entity id 5047 at (-161.20944394984284, 71.0, -343.2480591426138)
+[15:45:31] [Server thread/INFO]: Sending server config values to client
+[15:45:31] [Server thread/INFO]: Syncing config to ZXXXZ (b8e45221-f894-3549-bdeb-88b901e7a348)
+[15:45:31] [Server thread/INFO]: Loading config from file...
+[15:45:31] [Server thread/INFO]: ZXXXZ joined the game
+[15:45:31] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[15:45:32] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player ZXXXZ. Claiming: GRAVE / Robbing: INVENTORY
+[15:45:32] [Netty Epoll Server IO #5/INFO]: [ShulkerBoxTooltip] ZXXXZ: protocol version: 2.0
+[15:45:35] [Server thread/WARN]: Server seems overloading, jumping 2278ms or 45 ticks
+[15:46:19] [Server thread/INFO]: ZXXXZ lost connection: Disconnected
+[15:46:19] [Server thread/INFO]: ZXXXZ left the game
+[16:59:05] [Server thread/INFO]: CCYTY[/192.168.123.9:60196] logged in with entity id 5412 at (27.01340605752285, 114.5, -77.54822199988298)
+[16:59:05] [Server thread/INFO]: Sending server config values to client
+[16:59:05] [Server thread/INFO]: Syncing config to CCYTY (c23925db-c9db-3832-bc74-4da83617c6d9)
+[16:59:05] [Server thread/INFO]: Loading config from file...
+[16:59:05] [Server thread/INFO]: CCYTY joined the game
+[16:59:06] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[16:59:06] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player CCYTY. Claiming: GRAVE / Robbing: INVENTORY
+[16:59:06] [Netty Epoll Server IO #1/INFO]: [ShulkerBoxTooltip] CCYTY: protocol version: 2.0
+[17:00:14] [Server thread/WARN]: Server seems overloading, jumping 2583ms or 51 ticks
+[17:01:58] [Server thread/INFO]: CCYTY lost connection: Disconnected
+[17:01:58] [Server thread/INFO]: CCYTY left the game
