@@ -1,0 +1,22 @@
+{
+    "blacklist_player": [],
+    "ip": "0.0.0.0",
+    "kick_message": [
+        "§e§l请求成功！",
+        "",
+        "§f服务器正在启动！请稍作等待后进入"
+    ],
+    "motd": {
+        "1": "§e服务器正在休眠！",
+        "2": "§c进入服务器可将服务器从休眠中唤醒"
+    },
+    "port": 25565,
+    "protocol": 2,
+    "samples": [
+        "服务器正在休眠",
+        "进入服务器以唤醒"
+    ],
+    "server_icon": "server_icon.png",
+    "version_text": "§4Sleeping",
+    "wait_min": 240
+}

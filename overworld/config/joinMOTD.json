@@ -1,0 +1,12 @@
+{
+    "serverName": "不知道叫什么服务器",
+    "mainServerName": "HHH",
+    "serverList": [
+        "overworld"],
+    "start_day": "2025-01-05",
+    "daycount_plugin_ids": [
+        "mcd_daycount",
+        "day_count_reforged",
+        "daycount_nbt"
+    ]
+}

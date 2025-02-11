@@ -1,0 +1,69 @@
+[MCDR] [2025-02-10 23:53:29] [MainThread/INFO]: MCDReforged正于Python 3.9.2环境中运行
+[MCDR] [2025-02-10 23:53:29] [TaskExecutor/INFO]: 刷新所有插件中
+[MCDR] [2025-02-10 23:53:29] [TaskExecutor/INFO]: 插件 join_motd@1.3.0 已加载
+[MCDR] [2025-02-10 23:53:29] [TaskExecutor/INFO]: 插件 crash_restart@1.0.0 已加载
+[MCDR] [2025-02-10 23:53:29] [TaskExecutor/INFO]: 插件 online_player_api@1.0.0 已加载
+[MCDR] [2025-02-10 23:53:29] [TaskExecutor/INFO]: 插件 hibernate_r@1.2.0 已加载
+[MCDR] [2025-02-10 23:53:29] [TaskExecutor/INFO]: 插件 lowercase_mcdr_command@1.2.2 已加载
+[MCDR] [2025-02-10 23:53:29] [TaskExecutor/INFO] [join_motd]: 配置文件已加载
+[MCDR] [2025-02-10 23:53:29] [TaskExecutor/INFO] [crash_restart]: 配置文件已加载
+[MCDR] [2025-02-10 23:53:29] [TaskExecutor/INFO] [crash_restart]: Config info: {'MAX_COUNT': 3, 'COUNTING_TIME': 300}
+[MCDR] [2025-02-10 23:53:29] [TaskExecutor/INFO] [hibernate_r]: 所有参数初始化完成
+[MCDR] [2025-02-10 23:53:29] [TaskExecutor/INFO]: 共加载: §75§r 个插件; 已加载插件数: §77§r
+[MCDR] [2025-02-10 23:53:29] [MainThread/INFO]: 正在启动服务端，启动参数为 "java -Xms3G -Xmx4G -Dfile.encoding=UTF-8 -jar fabric-server-mc.1.20.1-loader.0.16.9-launcher.1.0.1.jar nogui"
+[MCDR] [2025-02-10 23:53:29] [MainThread/INFO]: 服务端正在以 PID 304 运行中
+[MCDR] [2025-02-10 23:53:30] [CheckUpdate/INFO]: 已检测到新版本: §7v2.14.5§r。§7v2.14.5§r 的新内容:
+[MCDR] [2025-02-10 23:53:30] [CheckUpdate/INFO]:     Check [here](https://github.com/MCDReforged/MCDReforged/releases/tag/v2.14.0) to view the changelog of the v2.14 series
+[MCDR] [2025-02-10 23:53:30] [CheckUpdate/INFO]:     
+[MCDR] [2025-02-10 23:53:30] [CheckUpdate/INFO]:     - Fixed CLI `pack` command error if the `ignore_file` does not exist (#366)
+[MCDR] [2025-02-10 23:53:30] [CheckUpdate/INFO]:     - Fixed `on_mcdr_stop` stack summary printing on long waits
+[MCDR] [2025-02-10 23:54:34] [Thread-2/INFO] [hibernate_r]: 事件：服务器启动
+[MCDR] [2025-02-10 23:54:39] [Thread-2/INFO] [hibernate_r]: 休眠倒计时开始
+[MCDR] [2025-02-10 23:55:07] [Thread-5/INFO] [hibernate_r]: 事件：玩家加入
+[MCDR] [2025-02-10 23:55:12] [Thread-5/INFO] [hibernate_r]: 休眠倒计时取消
+[MCDR] [2025-02-11 00:04:05] [Thread-6/INFO] [hibernate_r]: 事件：玩家退出
+[MCDR] [2025-02-11 00:04:07] [Thread-6/INFO] [hibernate_r]: 当前在线玩家数量：0，黑名单玩家：[]
+[MCDR] [2025-02-11 00:04:07] [Thread-6/INFO] [hibernate_r]: 休眠倒计时开始
+[MCDR] [2025-02-11 00:14:36] [Thread-9/INFO] [hibernate_r]: 事件：玩家加入
+[MCDR] [2025-02-11 00:14:41] [Thread-9/INFO] [hibernate_r]: 休眠倒计时取消
+[MCDR] [2025-02-11 01:02:50] [Thread-10/INFO] [hibernate_r]: 事件：玩家退出
+[MCDR] [2025-02-11 01:02:52] [Thread-10/INFO] [hibernate_r]: 当前在线玩家数量：0，黑名单玩家：[]
+[MCDR] [2025-02-11 01:02:52] [Thread-10/INFO] [hibernate_r]: 休眠倒计时开始
+[MCDR] [2025-02-11 01:09:52] [Thread-13/INFO] [hibernate_r]: 事件：玩家加入
+[MCDR] [2025-02-11 01:09:57] [Thread-13/INFO] [hibernate_r]: 休眠倒计时取消
+[MCDR] [2025-02-11 02:13:59] [Thread-14/INFO] [hibernate_r]: 事件：玩家退出
+[MCDR] [2025-02-11 02:14:01] [Thread-14/INFO] [hibernate_r]: 当前在线玩家数量：0，黑名单玩家：[]
+[MCDR] [2025-02-11 02:14:01] [Thread-14/INFO] [hibernate_r]: 休眠倒计时开始
+[MCDR] [2025-02-11 06:14:01] [Thread-16/INFO] [hibernate_r]: 倒计时结束，关闭服务器
+[MCDR] [2025-02-11 06:14:02] [MainThread/INFO]: 服务端进程返回代码: 0
+[MCDR] [2025-02-11 06:14:02] [MainThread/INFO]: 服务端已关闭
+[MCDR] [2025-02-11 06:14:13] [Thread-16/WARNING] [hibernate_r]: 未找到服务器图标，设置为None
+[MCDR] [2025-02-11 06:14:13] [Thread-16/INFO] [hibernate_r]: 伪装服务端已启动
+[MCDR] [2025-02-11 06:14:13] [Thread-16/INFO] [hibernate_r]: 开始监听端口
+[MCDR] [2025-02-11 11:10:01] [Thread-16/INFO] [hibernate_r]: 伪装服务器收到了一次ping: b'\x15\x00\xfb\x05\x0e192.168.123.29c\xdd\x01'
+[MCDR] [2025-02-11 11:10:02] [Thread-16/INFO] [hibernate_r]: 伪装服务器收到了一次连接请求: b'\x11\x00\xfb\x05\nDebian.lanc\xdd\x02'
+[MCDR] [2025-02-11 11:10:02] [Thread-16/INFO] [hibernate_r]: 启动服务器
+[MCDR] [2025-02-11 11:10:02] [Thread-16/INFO]: 正在启动服务端，启动参数为 "java -Xms3G -Xmx4G -Dfile.encoding=UTF-8 -jar fabric-server-mc.1.20.1-loader.0.16.9-launcher.1.0.1.jar nogui"
+[MCDR] [2025-02-11 11:10:02] [Thread-16/INFO]: 服务端正在以 PID 2789 运行中
+[MCDR] [2025-02-11 11:11:09] [Thread-18/INFO] [hibernate_r]: 事件：服务器启动
+[MCDR] [2025-02-11 11:11:14] [Thread-18/INFO] [hibernate_r]: 休眠倒计时开始
+[MCDR] [2025-02-11 11:13:31] [Thread-21/INFO] [hibernate_r]: 事件：玩家加入
+[MCDR] [2025-02-11 11:13:36] [Thread-21/INFO] [hibernate_r]: 休眠倒计时取消
+[MCDR] [2025-02-11 11:30:09] [Thread-22/INFO] [hibernate_r]: 事件：玩家退出
+[MCDR] [2025-02-11 11:30:11] [Thread-22/INFO] [hibernate_r]: 当前在线玩家数量：0，黑名单玩家：[]
+[MCDR] [2025-02-11 11:30:11] [Thread-22/INFO] [hibernate_r]: 休眠倒计时开始
+[MCDR] [2025-02-11 12:12:18] [Thread-25/INFO] [hibernate_r]: 事件：玩家加入
+[MCDR] [2025-02-11 12:12:23] [Thread-25/INFO] [hibernate_r]: 休眠倒计时取消
+[MCDR] [2025-02-11 12:14:29] [Thread-26/INFO] [hibernate_r]: 事件：玩家退出
+[MCDR] [2025-02-11 12:14:31] [Thread-26/INFO] [hibernate_r]: 当前在线玩家数量：0，黑名单玩家：[]
+[MCDR] [2025-02-11 12:14:31] [Thread-26/INFO] [hibernate_r]: 休眠倒计时开始
+[MCDR] [2025-02-11 15:45:31] [Thread-29/INFO] [hibernate_r]: 事件：玩家加入
+[MCDR] [2025-02-11 15:45:36] [Thread-29/INFO] [hibernate_r]: 休眠倒计时取消
+[MCDR] [2025-02-11 15:46:19] [Thread-30/INFO] [hibernate_r]: 事件：玩家退出
+[MCDR] [2025-02-11 15:46:21] [Thread-30/INFO] [hibernate_r]: 当前在线玩家数量：0，黑名单玩家：[]
+[MCDR] [2025-02-11 15:46:21] [Thread-30/INFO] [hibernate_r]: 休眠倒计时开始
+[MCDR] [2025-02-11 16:59:05] [Thread-33/INFO] [hibernate_r]: 事件：玩家加入
+[MCDR] [2025-02-11 16:59:10] [Thread-33/INFO] [hibernate_r]: 休眠倒计时取消
+[MCDR] [2025-02-11 17:01:58] [Thread-34/INFO] [hibernate_r]: 事件：玩家退出
+[MCDR] [2025-02-11 17:02:00] [Thread-34/INFO] [hibernate_r]: 当前在线玩家数量：0，黑名单玩家：[]
+[MCDR] [2025-02-11 17:02:00] [Thread-34/INFO] [hibernate_r]: 休眠倒计时开始
